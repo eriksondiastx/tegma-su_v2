@@ -1,0 +1,6 @@
+{
+  "name": "TEGMA-SU, Lda | Construção, Agroindústria & Comércio",
+  "description": "Plataforma institucional do Grupo TEGMA-SU em Angola: obras públicas e vias urbanas, agroindústria Palanca, fornecimento industrial e comércio internacional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
